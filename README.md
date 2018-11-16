@@ -12,9 +12,9 @@ Easy to use matlab codes are presented. They requires Matlab 2018a or higher.
 5. sentiment_lstm.m: word vector based LSTMs
 6. sentiment_mean_word_embedding.m: mean word vectors
 
-train files: train_tweets.xlsx
-test files: test_tweets.xlsx
 You can use them with your own datasets.
+
+For train and test files: please ask via eMail: amasyali at yildiz dot edu dot tr
 
 Please cite this* publication if you use the dataset and/or codes.
 *"Words, Meanings, Characters in Sentiment Analysis", "Duygudurum Analizinde Kelimeler, Anlamlar, Karakterler", Mehmet Fatih Amasyali, Kubra Caliskan, Hakan Taskopru, ASYU 2018, October 4-6, Adana, Turkey, 2018 
